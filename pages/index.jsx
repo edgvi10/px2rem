@@ -4,7 +4,7 @@ import { calculator } from "../res/calculator";
 
 const pkg = require("../package.json");
 
-export default function Login(props) {
+export default function Home(props) {
     const [root_fs, setRootFS] = useState(16);
 
     const [from, setFrom] = useState("px");
