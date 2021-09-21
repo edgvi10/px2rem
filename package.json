@@ -1,0 +1,29 @@
+{
+  "name": "rem-calculator",
+  "appname": "REM2PX",
+  "description": "REM to Pixel Calculator",
+  "version": "0.0.1",
+  "author": "edgvi10@gmail.com",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Eduardo Vieira",
+      "email": "edgvi10@gmail.com",
+      "url": "https://github.com/edgvi10"
+    }
+  ],
+  "scripts": {
+    "dev": "clear && next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^11.1.0",
+    "next-pwa": "^5.3.1",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.38.2",
+    "uuid": "^8.3.2"
+  }
+}
